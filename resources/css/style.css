@@ -5,8 +5,20 @@
 
 .banner {
   background-image: url(../images/the_flatiron_building.png);
+  color: white;
+}
+
+p {
+  font-size: 14px:
 }
 
 .smallbanner {
   background-image: url(../images/the_flatiron_building.png);
+  color: white;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
